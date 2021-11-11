@@ -1,5 +1,7 @@
 # Asymptotic-Analysis
 
+The sorting algorithms used in the project are Selection Sort, Insertion Sort and Quick Sort
+
 ** Programming language **
 Java8
 
