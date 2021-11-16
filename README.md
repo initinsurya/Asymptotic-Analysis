@@ -1,5 +1,7 @@
 # Asymptotic-Analysis
 
+Asymptotic analysis of an algorithm refers to defining the mathematical boundation/framing of its run-time performance. Using asymptotic analysis, we can very well conclude the best case, average case, and worst case scenario of an algorithm.
+
 The sorting algorithms used in the project are Selection Sort, Insertion Sort and Quick Sort
 
 ** Programming language **
